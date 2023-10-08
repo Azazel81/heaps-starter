@@ -1,5 +1,5 @@
 -cp src
 -lib heaps
--cpp learn.cpp
+-js learn.js
 -main Main
 -debug
